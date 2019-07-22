@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc of Renewable Energy
+role: Postdoc in Center for Energy Research
 
 # Organizations/Affiliations
 organizations:
