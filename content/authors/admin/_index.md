@@ -72,10 +72,15 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
+I’m a Postdoctoral Scholar researching on Renewable Energy and Energy Meteorology in the Center for Energy Research at University of California San Diego. My postdocoral work and PhD dissertation research was advised by Prof. Carlos F. M. Coimbra, and was funded by projects from National Science Foundation, California Energy Comission and Department of Energy. During my time with the Coimbra Research Group (CRG) I was involved with a number of research projects such as resource-to-power modeling and high-fidelity forecast generation for large-scale solar power plants, and the development of low-cost, rapidly deployable, self-sustaining portable weather sensing stations. Sometimes I build robots [1, 2, 3]. Over the Summer and Fall of 2016, I spent time working on bleeding edge semiconductor chip manufacturing technology at Cymer/ASML.
+
+Outside of research, I mentor undergraduate students on their journey toward postgraduate study through the STARS and UC LEADS programs. In the past I have also worked with the IDEA Scholars program and with high school outreach through the CRG.
+
+This is the new address of my previous site.
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
