@@ -93,7 +93,7 @@ office_hours = ""
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 1
 map_api_key = ""
 latitude = "32.879616"
 longitude = "-117.235030"
