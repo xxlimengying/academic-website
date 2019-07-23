@@ -22,32 +22,26 @@ date_format = "Jan 2006"
   company = "University of California San Diego"
   company_url = ""
   location = "La Jolla, CA"
-  date_start = "2018-09"
-  date_end = "present"
-  description = """
-  # Responsibilities include:
-  
-  # * Analysing
-  # * Modelling
-  # * Deploying
-  # """
+  date_start = "2018-09-24"
+  date_end = ""
+  description = ""
 
 [[experience]]
   title = "Research Assistant"
   company = "University of California San Diego"
   company_url = ""
   location = "La Jolla, CA"
-  date_start = "2013-09"
-  date_end = "2018-08"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2013-09-13"
+  date_end = "2018-08-31"
+  description = ""
 
 [[experience]]
   title = "Research Assistant"
   company = "Oracle Labs"
   company_url = ""
   location = "San Diego, CA"
-  date_start = "2017-01"
-  date_end = "2017-09"
+  date_start = "2017-01-02"
+  date_end = "2017-09-27"
   # description = """Taught electronic engineering and researched semiconductor physics."""
   
  [[experience]]
@@ -55,8 +49,8 @@ date_format = "Jan 2006"
   company = "University of Pennsylvania"
   company_url = ""
   location = "Philadelphia, PA"
-  date_start = "2012-03"
-  date_end = "2013-08"
+  date_start = "2012-03-01"
+  date_end = "2013-08-24"
   # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
