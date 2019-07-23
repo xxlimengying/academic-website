@@ -75,7 +75,7 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 I’m a Postdoctoral Scholar researching on Renewable Energy and Energy Meteorology in the [Center for Energy Research](https://cer.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). My postdocoral work and PhD dissertation research was advised by [Prof. Carlos F. M. Coimbra](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=324), and was funded by projects from [National Science Foundation](https://www.nsf.gov/), [Department of Energy](https://www.energy.gov/) and [California Energy Comission](https://www.energy.ca.gov/) and Department of Energy. During my time with the [Coimbra Research Group](http://coimbra.ucsd.edu/) I was involved with a number of research projects such as resource-to-power modeling and high-fidelity forecast generation for large-scale solar power plants, and the development of low-cost, rapidly deployable, self-sustaining portable weather sensing stations. Sometimes I build robots. Over the Summer and Fall of 2016, I spent time working on bleeding edge semiconductor chip manufacturing technology at Cymer/ASML.
 
 Outside of research, I mentor undergraduate students on their journey toward postgraduate study through the STARS and UC LEADS programs. In the past I have also worked with the IDEA Scholars program and with high school outreach through the CRG.
