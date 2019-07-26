@@ -10,6 +10,7 @@ publication: "*Electroanalysis*"
 tags: ["AC", "Debye screening length", "Diffuse charge dynamics", "Electric double layer", "Electric field", "Step change"]
 doi: "10.1002/elan.201400397"
 ---
+---
 title: "Capacitive charging and desalination dynamics of a packed-bed reactor"
 date: 2015-01-01
 publishDate: 2019-07-26T18:09:53.921237Z
