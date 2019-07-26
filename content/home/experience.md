@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctral Researcher"
+  title = "Postdoctral Scholar"
   company = "University of California San Diego"
   company_url = ""
   location = "La Jolla, CA"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Graduate Student Researcher"
   company = "University of California San Diego"
   company_url = ""
   location = "La Jolla, CA"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Researcher"
   company = "Oracle Labs"
   company_url = ""
   location = "San Diego, CA"
