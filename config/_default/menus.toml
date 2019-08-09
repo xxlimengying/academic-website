@@ -24,7 +24,7 @@
   weight = 60
 
 [[main]]
-  name = "Conference"
+  name = "Conferences"
   url = "#presentations"
   weight = 70
   
