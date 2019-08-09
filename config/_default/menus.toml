@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "#publications"
+  url = "#research"
   weight = 40
 
 #[[main]]
@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Conferences"
-  url = "#presentations"
+  url = "#conferences"
   weight = 70
   
 [[main]]
