@@ -9,14 +9,14 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
+  name = "Research"
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Patents"
-  url = "#patents"
-  weight = 50
+#[[main]]
+  #name = "Patents"
+  #url = "#patents"
+  #weight = 50
 
 [[main]]
   name = "Teaching"
@@ -24,7 +24,7 @@
   weight = 60
 
 [[main]]
-  name = "Presentations"
+  name = "Conference"
   url = "#presentations"
   weight = 70
   
