@@ -15,7 +15,7 @@ location: Pittsburgh, Pennsylvania, United States
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-11-15T00:00:00Z"
 
-authors: ["Sanjeev Sondur", "Kenny Gross", "Mengying Li" ]
+authors: ["Sanjeev Sondur", "Kenny C. Gross", "Mengying Li" ]
 tags: []
 
 # Is this a featured talk? (true/false)
