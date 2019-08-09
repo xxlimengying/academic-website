@@ -1,8 +1,8 @@
 ---
 title: "MSET-based Process for Certifying Provenance of Time-Series Data in a Time-Series Database"
-date: 2017-12-27
-publishDate: 2017-12-27T18:09:53.913527Z
-authors: ["Kenny C. Gross", "Mengying Li", "T. Masoumi "]
+date: 2017-12-20
+publishDate: 2017-12-20T18:09:53.913527Z
+authors: ["Kenny C. Gross", "Z. H. Liu", "D. Gawlick","Mengying Li"]
 publication_types: ["8"]
 abstract: "ORA180251"
 featured: false
