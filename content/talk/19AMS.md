@@ -5,7 +5,7 @@ event_url: https://annual.ametsoc.org/index.cfm/2019/
 location: Phoenix, Arizona, United States
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2010-01-06T00:00:00Z"
+publishDate: "2019-01-06T00:00:00Z"
 
 authors: ["Mengying Li", "Carlos F. M. Coimbra" ]
 tags: []
