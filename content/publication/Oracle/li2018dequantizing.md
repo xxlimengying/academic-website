@@ -1,10 +1,10 @@
 ---
-title: "Dequantizing Low Resolution IoT Signals to Produce High-Accuracy Prognostic Indicators."
+title: "Dequantizing Low Resolution IoT Signals to Produce High-Accuracy Prognostic Indicators"
 date: 2018-04-06
 publishDate: 2018-04-06T18:09:53.913527Z
 authors: ["Mengying Li", "Kenny C. Gross"]
 publication_types: ["8"]
-abstract: ""
+abstract: "ORA180292"
 featured: false
 publication: "*US Patents*"
 #tags: ["Downward longwave irradiance", "Effective sky emissivity", "Effective sky temperature", "Parametric modeling"]
