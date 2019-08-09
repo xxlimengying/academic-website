@@ -15,7 +15,7 @@ for which such high telemetry sampling densities are physically and electronical
 is achieved with no hardware or firmware modifications in any of the critical assets being monitored, and hence
 is backward compatible with legacy assets already in operation."
 featured: false
-publication: "*Proceedings of the 2017 International Conference on Artificial Intelligence"
+publication: "*Proceedings of the 2017 International Conference on Artificial Intelligence*"
 tags: ["prognostic cyber security", "internet-ofthings","IoT", “real time prognostics”, “anomaly detection”,“AI”]
 url_pdf: ""
 #doi: "10.1615/IHTC16.rti.023041"
