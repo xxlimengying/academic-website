@@ -1,7 +1,7 @@
 ---
 title: MEAM 203 Thermodynamics
 summary: Served as teaching assistant during Spring 2012.
-- Instructor
+- TA
 #date: "2012-04-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
