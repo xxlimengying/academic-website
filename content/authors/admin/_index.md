@@ -51,7 +51,7 @@ social:
   link: "mel080@eng.ucsd.edu"
 - icon: cv
   icon_pack: ai
-  link: files/MLi_CV_July2019.pdf
+  link: files/MLi_CV_August2019.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JXioNvAAAAAJ&hl=en
