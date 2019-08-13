@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mel080@eng.ucsd.edu"
+  link: "mailto:mel080@eng.ucsd.edu"
 - icon: cv
   icon_pack: ai
   link: files/MLi_CV_August2019.pdf
