@@ -6,7 +6,7 @@ authors: ["Kenny C. Gross", "Mengying Li", "A. M. Urmanov"]
 publication_types: ["8"]
 abstract: ""
 featured: false
-publication: "*US Patents 15/821,593*"
+publication: "*US Patent No.15 / 821,593*"
 #tags: ["Downward longwave irradiance", "Effective sky emissivity", "Effective sky temperature", "Parametric modeling"]
 #doi: "10.1016/j.solener.2017.01.006"
 ---
