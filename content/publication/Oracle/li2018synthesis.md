@@ -1,7 +1,7 @@
 ---
-title: "High-Fidelity Synthesis of Telemetry Time Series Signals for Expanded ML Research Opportunities"
-date: 2018-03-19
-publishDate: 2018-03-19T18:09:53.913527Z
+title: "Synthesizing High-fidelity Time-series Sensor Signals To Facilitate Machine-learning Innovations"
+date: 2019-08-08
+publishDate: 2019-08-08T18:09:53.913527Z
 authors: ["Kenny C. Gross", "Mengying Li", "Alan P. Wood", "S. Jeffreys", "A. Misra", "L. Fumagalli"]
 publication_types: ["8"]
 abstract: "ORA 180260"
