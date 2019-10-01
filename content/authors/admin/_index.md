@@ -23,7 +23,7 @@ organizations:
 interests:
 - Radiative Heat Transfer
 - Energy Meteorology
-- Solar Power
+- Solar Power and Storage
 - Solar Forecasting
 - Renewable Power Systems
 
