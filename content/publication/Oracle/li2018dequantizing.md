@@ -1,7 +1,7 @@
 ---
-title: "Dequantizing Low Resolution IoT Signals to Produce High-Accuracy Prognostic Indicators"
-date: 2018-04-06
-publishDate: 2018-04-06T18:09:53.913527Z
+title: "Dequantizing low-resolution IOT signals to produce high-accuracy prognostic indicators"
+date: 2019-10-10
+publishDate: 2019-10-10T09:00:00.913527Z
 authors: ["Mengying Li", "Kenny C. Gross"]
 publication_types: ["8"]
 abstract: "ORA180292"
