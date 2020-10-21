@@ -13,6 +13,8 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  
+ {{< figure src="static/img/background.png" title="" >}}
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -28,8 +30,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "background.png"  # Name of image in `static/img/`.
-  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "background.png"  # Name of image in `static/img/`.
+  # image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
