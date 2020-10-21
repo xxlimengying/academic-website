@@ -26,4 +26,13 @@ caption = ""
   image = "background.png"
 # ---
 # blablablalblablalb.....
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
+
+Welcome to the **personal demo** of Academic. Other demos available include:
