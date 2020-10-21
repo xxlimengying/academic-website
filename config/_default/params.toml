@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "forest"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -15,7 +15,7 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "logo_only.png"
+sharing_image = "realab_logo.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -129,7 +129,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
-# Configuration of publication pages.
+#Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
