@@ -15,22 +15,24 @@ subtitle = ""
 # summary: Here we describe how to add a page to your site.
 # date: "2018-06-28T00:00:00Z"
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+reading_time = false  # Show estimated reading time?
+share=  false  # Show social sharing links?
+profile=  false  # Show author profile?
+comments = false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: "background.png"
+[header]
+caption = ""
+  image = "background.png"
 # ---
 
-add your content here ....  blablabal
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  
+  add your content here ....  blablabal
   
  # {{< figure library="true" src="background.png" title="" >}}
 
