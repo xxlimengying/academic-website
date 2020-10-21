@@ -10,7 +10,7 @@ weight = 15  # Order that this section will appear.
 title = ""
 subtitle = ""
 
----
+# ---
 # title: An example title
 # summary: Here we describe how to add a page to your site.
 # date: "2018-06-28T00:00:00Z"
@@ -24,7 +24,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: "background.png"
----
+# ---
 
 add your content here ....  blablabal
 
