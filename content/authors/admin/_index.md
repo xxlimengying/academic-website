@@ -1,6 +1,6 @@
 ---
 # Display name
-# name: REALab
+- name: REALab
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Mechanical Engineering
+- role: Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-name: The Hong Kong Polytechnic University
+- name: The Hong Kong Polytechnic University
 
 ---
 
