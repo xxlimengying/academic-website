@@ -58,9 +58,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mel080@eng.ucsd.edu"
-# phone = "858 281 8384"
-address = "SERF building 117, University of California San Diego, La Jolla, CA, 92093, USA"
+email = "mengying.li@polyu.edu.hk"
+phone = "+852-"
+address = "FG 61x, The Hong Kong Polytechnic University, Hung Hom, Hong Kong SAR"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = ""
@@ -95,8 +95,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 1
 map_api_key = "AIzaSyCWty5AqLqB2ZaXtkcoAIz24e6Gn-hmtc0"
-latitude = "32.879616"
-longitude = "-117.235030"
+latitude = "22.3039"
+longitude = "114.1797"
 zoom = 15
 
 ############################
