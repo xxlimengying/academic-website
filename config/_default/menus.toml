@@ -13,20 +13,25 @@
   url = "#research"
   weight = 40
 
-#[[main]]
-  #name = "Patents"
-  #url = "#patents"
-  #weight = 50
-
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 60
 
 [[main]]
-  name = "Conferences"
-  url = "#conferences"
-  weight = 70
+  name = "Team"
+  url = "#team"
+  weight = 40
+
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 50
+  
+#[[main]]
+  #name = "Conferences"
+  #url = "#conferences"
+  #weight = 70
   
 [[main]]
   name = "Contact"
