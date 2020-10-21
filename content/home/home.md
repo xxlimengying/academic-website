@@ -1,38 +1,33 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+widget = "slider"  # Use the Slider widget
+headless = true  # This file represents a page section.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+# ... Put Your Section Options Here (section position etc.) ...
 
-title = ""
-subtitle = ""
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval = false
 
-# ---
-# title: An example title
-# summary: Here we describe how to add a page to your site.
-# date: "2018-06-28T00:00:00Z"
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height = "300px"
 
-reading_time = false  # Show estimated reading time?
-share=  false  # Show social sharing links?
-profile=  false  # Show author profile?
-comments = false  # Show comments?
+# Slides.
+# Duplicate an `[[item]]` block to add more slides.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
 
-# Optional header image (relative to `static/media/` folder).
-[header]
-caption = ""
-  image = "background.png"
-# ---
-# blablablalblablalb.....
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "background.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
-Welcome to the **personal demo** of Academic. Other demos available include:
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  # cta_label = "Get Academic"
+  # cta_url = "https://sourcethemes.com/academic/"
+  # cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
