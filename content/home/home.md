@@ -1,5 +1,7 @@
++++
 widget = "slider"  # Use the Slider widget
 headless = true  # This file represents a page section.
+weight = 20
 
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -31,3 +33,4 @@ height = "300px"
   # cta_url = "https://sourcethemes.com/academic/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
++++
