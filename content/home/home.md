@@ -10,11 +10,29 @@ weight = 15  # Order that this section will appear.
 title = ""
 subtitle = ""
 
+---
+# title: An example title
+# summary: Here we describe how to add a page to your site.
+# date: "2018-06-28T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: "background.png"
+---
+
+add your content here ....  blablabal
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
   
- {{< figure src="static/img/background.png" title="" >}}
+ # {{< figure library="true" src="background.png" title="" >}}
 
 [design.background]
   # Apply a background color, gradient, or image.
