@@ -12,22 +12,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc in Center for Energy Research
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: University of California San Diego
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Radiative Heat Transfer
-- Energy Meteorology
-- Solar Power and Storage
-- Solar Forecasting
-- Renewable Power Systems
+- Energy Meteorology 
+- Solar Resourcing and Forecasting
+- Renewable Power Systems with Passive Cooling and Desalination
+- Thermal Storage
 
 
 
@@ -50,10 +49,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mel080@eng.ucsd.edu"
-- icon: cv
-  icon_pack: ai
-  link: files/MLi_CV_updated2019.pdf
+  link: "mailto:mengying.li@polyu.edu.hk"
+# - icon: cv
+#  icon_pack: ai
+#  link: files/MLi_CV_updated2019.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JXioNvAAAAAJ&hl=en
@@ -78,4 +77,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I’m a Postdoctoral Scholar studying Renewable Energy and Energy Meteorology in the [Center for Energy Research](https://cer.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). My postdocoral work and PhD dissertation research was advised by [Prof. Carlos F. M. Coimbra](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=324), and was funded by projects from [National Science Foundation](https://www.nsf.gov/), [Department of Energy](https://www.energy.gov/) and [California Energy Comission](https://www.energy.ca.gov/). During my time with the [Coimbra Research Group](http://coimbra.ucsd.edu/), I was involved with a number of research projects such as high-fidelity solar irradiance forecasting using physical and machine learning models; spectral modeling of longwave and shortwave radiative transfer in the atmosphere; and physics-based estimation of cloud optical properties from cutting-edge remote sensing data (e.g., GOES satellite imaging).  Currently, I am expanding my research areas to large-scale thermal energy storage, hybridizing different renewable sources for power production, passive cooling and desalination. 
+I’m an Assistant Professor in the department of [Mechniacal Engineering](https://www.polyu.edu.hk/me/) at [The Hong Kong Polytechnic Univeristy](https://www.polyu.edu.hk/). Prior to join PolyU in 2020, I worked as a Postdoctoral Scholar from 2018 to 2020 in [Center for Energy Research](https://cer.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). My postdocoral work and Ph.D. dissertation research was advised by [Prof. Carlos F. M. Coimbra](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=324). I conducted various research projects such as high-fidelity solar irradiance forecasting using physical and machine learning models; spectral modeling of longwave and shortwave radiative transfer in the atmosphere; and physics-based estimation of cloud optical properties from cutting-edge remote sensing data (e.g., GOES satellite imaging).  Currently, my research areas are expanded to large-scale thermal energy storage, hybridizing different renewable sources for power production, passive cooling and desalination. 
