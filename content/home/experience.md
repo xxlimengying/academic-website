@@ -17,14 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Postdoctral Scholar"
-  company = "University of California San Diego"
+  title = "Ph.D. Student"
+  company = "Department of Mechanical Engineering"
   company_url = ""
-  location = "La Jolla, CA"
-  date_start = "2018-09-24"
+  location = "PolyU"
+  date_start = "2020-10-01"
   date_end = ""
-  description = ""
+  description = "blabal"
 
 [[experience]]
   title = "Graduate Student Researcher"
