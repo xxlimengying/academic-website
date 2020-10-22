@@ -1,0 +1,12 @@
+---
+title: "Spectral solar irradiance on inclined surfaces: a fast Monte Carlo approach"
+date: 2020-01-01
+publishDate: 2020-10-14T18:09:53.917019Z
+authors: ["Mengying Li", "Zhouyi Liao", "Carlos F. M. Coimbra"]
+publication_types: ["2"]
+abstract: "Estimating spectral plane-of-array (POA) solar irradiance on inclined surfaces is an important step in the design and performance evaluation of both photovoltaic and concentrated solar plants. This work introduces a fast, line-by-line spectral, Monte Carlo (MC) radiative transfer model approach to simulate anisotropic distributions of shortwave radiation through the atmosphere as photon bundles impinge on inclined surfaces. This fast Monte Carlo approach reproduces the angular distribution of solar irradiance without the undesirable effects of spatial discretization and thus computes detailed POA irradiance values on surfaces at any orientation and also when surfaces are subjected to the anisotropic ground and atmospheric scattering. Polarization effects are also easily incorporated into this approach that can be considered as direct numerical simulation of the physics involved. Here, we compare our Monte Carlo radiative transfer model with the most widely used empirical transposition model, Perez4, under various conditions. The results show that the Perez4 model reproduces the more detailed Monte Carlo simulations with less than 10% deviation under clear skies for all relevant surface tilt and azimuth angles. When optically thin clouds are present, observed deviations are larger, especially when the receiving surface is strongly tilted. Deviations are also observed for large azimuth angle differences between the receiving surface and the solar position. When optically thick clouds are present, the two models agree within 15% deviation for nearly all surface orientation and tilt angles. The overall deviations are smaller when compared with cases for optically thin clouds. The Perez4 model performs very well (approx. 6.0% deviation) in comparison with the detailed MC simulations for all cases, thus validating its widespread use for practical solar applications. When detailed atmospheric profiles and cloud optical properties are available, the proposed fast Monte Carlo radiative model reproduces accurate spectral and angular POA irradiance levels for various atmospheric and cloud cover conditions, surface orientations, and different surface and ground properties."
+featured: false
+publication: "*Journal of Renewable and Sustainable Energy*"
+doi: "10.1063/5.0011635"
+---
+
