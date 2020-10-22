@@ -50,9 +50,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:mengying.li@polyu.edu.hk"
-# - icon: cv
-#  icon_pack: ai
-#  link: files/MLi_CV_updated2019.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JXioNvAAAAAJ&hl=en
@@ -73,8 +70,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
+
 user_groups:
-- Principal Investigator
+- Principal Investigators
 
 ---
 I’m an Assistant Professor in the department of [Mechniacal Engineering](https://www.polyu.edu.hk/me/) at [The Hong Kong Polytechnic Univeristy](https://www.polyu.edu.hk/). Prior to join PolyU in 2020, I worked as a Postdoctoral Scholar from 2018 to 2020 in [Center for Energy Research](https://cer.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). My postdocoral work and Ph.D. dissertation research was advised by [Prof. Carlos F. M. Coimbra](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=324). I conducted various research projects such as high-fidelity solar irradiance forecasting using physical and machine learning models; spectral modeling of longwave and shortwave radiative transfer in the atmosphere; and physics-based estimation of cloud optical properties from cutting-edge remote sensing data (e.g., GOES satellite imaging).  Currently, my research areas are expanded to large-scale thermal energy storage, hybridizing different renewable sources for power production, passive cooling and desalination. 
