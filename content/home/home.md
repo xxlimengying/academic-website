@@ -34,7 +34,7 @@ text_color_light = true
 [design.spacing]
 
 # Customize the section spacing. Order is top, right, bottom, left.
-padding = ["200px", "200px", "200px", "200px"]
+padding = ["450px", "-100px", "450px", "-100px"]
 
 [advanced]
 
