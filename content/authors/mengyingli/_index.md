@@ -4,6 +4,9 @@
 # Display name
 name: Mengying Li
 
+# User group
+user_groups = ["Principal Investigators"]
+
 # Username (this should match the folder name)
 authors:
 - mengyingli
