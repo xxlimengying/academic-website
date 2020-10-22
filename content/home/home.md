@@ -1,56 +1,34 @@
 +++
+widget = "slider"  # Use the Slider widget
+headless = true 
+weight = 20
 
-widget = "blank" # See https://sourcethemes.com/academic/docs/page-builder/ 
-headless = true # This file represents a page section. 
-active = true # Activate this widget? true/false 
-weight = 20 # Order that this section will appear.
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval = false
 
-title = "" 
-subtitle = ""
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+# height = "450px"
 
-[design]
+# Slides.
+# Duplicate an `[[item]]` block to add more slides.
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
 
-# Choose how many columns the section has. Valid values: 1 or 2.
-columns = "1"
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "background.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
-[design.background]
-
-# Apply a background color, gradient, or image.
-# Uncomment (by removing #) an option to apply it.
-# Choose a light or dark text color by setting text_color_light.
-# Any HTML color name or Hex value is valid.
-# Background color.
-# color = "navy"
-# Background gradient.
-# gradient_start = "DeepSkyBlue"
-# gradient_end = "SkyBlue"
-# Background image.
-image = "background.png" # Name of image in static/img/. 
-image_darken = 0.0 # Range 0-1 where 0 is transparent and 1 is opaque.
-
-# Text color (true=light or false=dark).
-text_color_light = true
-
-[design.spacing]
-
-# Customize the section spacing. Order is top, right, bottom, left.
-padding = ["420px", "30px", "0px", "30px"]
 
 [advanced]
-
-# Custom CSS.
-css_style = ""
-
-# CSS class.
-css_class = "" 
-
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
-
-
-
-
-
-
-
-
-
