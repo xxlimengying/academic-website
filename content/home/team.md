@@ -15,12 +15,12 @@ subtitle = ""
 user_groups = ["Principal Investigator","Researchers",] 
 
 
-[design]
+
 # Show user's social networking links? (true/false)
-  show_social = true
+show_social = true
 
 # Show user's interests? (true/false)
-  show_interests = false
+show_interests = false
 
 # user_groups = ["Principal Investigators", "Researchers", 
 # "Grad Students", "Administration", "Visitors", "Alumni"] 
