@@ -4,22 +4,19 @@
 # Display name
 name: Mengying Li
 
-# User group
-user_groups = ["Principal Investigators"]
-
 # Username (this should match the folder name)
 authors:
 - mengyingli
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: ""
+- name: "Mechanical Engineering, HKPolyU"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,8 +73,8 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-# user_groups:
-# - Researchers
-# - Visitors
+user_groups:
+- Principal Investigator
+
 ---
 I’m an Assistant Professor in the department of [Mechniacal Engineering](https://www.polyu.edu.hk/me/) at [The Hong Kong Polytechnic Univeristy](https://www.polyu.edu.hk/). Prior to join PolyU in 2020, I worked as a Postdoctoral Scholar from 2018 to 2020 in [Center for Energy Research](https://cer.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). My postdocoral work and Ph.D. dissertation research was advised by [Prof. Carlos F. M. Coimbra](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=324). I conducted various research projects such as high-fidelity solar irradiance forecasting using physical and machine learning models; spectral modeling of longwave and shortwave radiative transfer in the atmosphere; and physics-based estimation of cloud optical properties from cutting-edge remote sensing data (e.g., GOES satellite imaging).  Currently, my research areas are expanded to large-scale thermal energy storage, hybridizing different renewable sources for power production, passive cooling and desalination. 

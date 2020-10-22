@@ -8,9 +8,20 @@ weight = 80 # Order that this section will appear.
 title = "Meet the Team" 
 subtitle = ""
 
-# List user groups to display.
-# Edit each user's user_groups to add them to one or more of these groups.
-user_groups = ["Principal Investigators"] 
+
+[content]
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = ["Principal Investigators"] 
+
+
+[design]
+  # Show user's social networking links? (true/false)
+  show_social = true
+
+  # Show user's interests? (true/false)
+  show_interests = false
+
 # user_groups = ["Principal Investigators", "Researchers", 
 # "Grad Students", "Administration", "Visitors", "Alumni"] 
 
