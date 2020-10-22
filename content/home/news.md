@@ -27,40 +27,5 @@ date_format = "Jan 2006"
   date_start = "Oct 2020"
   date_end = ""
   description = """
-  Students who are motivated to pursue a Ph.D. degree with a background in thermodynamics, heat and mass transfer or related fields are welcome to contact Dr. Li. Preference will be given to those students who obtained or is expected to obtain a M.S. degree and has publications in English. 
-  """
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Department of Mechanical Engineering"
-  company_url = ""
-  location = ""
-  date_start = "Oct 2020"
-  date_end = ""
-  description = """
-  Applicants who have a M.S. degree in Mechanical Engineering, Thermal Engineering or related field are welcome to Contact Dr. Li. Preference will be given to those who has publications in English and familiar with numerical modelings in Python or Matlab.
-  """
-
-[[experience]]
-  title = "Postdoc Researcher"
-  company = "Department of Mechanical Engineering"
-  company_url = ""
-  location = ""
-  date_start = "Oct 2020"
-  date_end = ""
-  description = """
-  Applicants who have a Ph.D. degree in Mechanical Engineering, Thermal Engineering or related field are welcome to Contact Dr. Li. Preference will be given to those who has excel publication records in the close field.
-  """
-  
-[[experience]]
-  title = "Visiting Scholars and More"
-  company = "Department of Mechanical Engineering"
-  company_url = ""
-  location = ""
-  date_start = "Oct 2020"
-  date_end = ""
-  description = """ 
-  Visiting scholars are welcome to contact Dr. Li to discuss interested projects. Highly motivated undergraduate and M.S. students are welcome to participate in our research and publish the research results.
-  """
 
 +++
