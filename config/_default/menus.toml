@@ -24,14 +24,9 @@
   weight = 80
 
 [[main]]
-  name = "News"
+  name = "Openings"
   url = "#news"
-  weight = 100
-  
-#[[main]]
-  #name = "Conferences"
-  #url = "#conferences"
-  #weight = 70
+  weight = 100  
   
 [[main]]
   name = "Contact"
