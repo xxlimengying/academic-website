@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = "Department of Mechanical Engineering"
   company_url = ""
   location = ""
-  date_start = "Oct 2020"
+  date_start = "2020-10-27"
   date_end = ""
   description = """
 
