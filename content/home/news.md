@@ -13,4 +13,23 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Ph.D. Student"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = ""
+  date_end = ""
+  description = """
+  Students who are motivated to pursue a Ph.D. degree with a background in thermodynamics, heat and mass transfer or related fields are welcome to contact Dr. Li. Preference will be given to those students who obtained or is expected to obtain a M.S. degree and has publications in English. 
+  """
+
+
+
 +++
