@@ -1,5 +1,3 @@
-# introduce group members
-
 ---
 # Display name
 name: Mengying Li
