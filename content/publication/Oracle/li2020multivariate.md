@@ -2,7 +2,7 @@
 title: "Multivariate Memory Vectorization Technique to Facilitate Intelligent Caching in Time-Series Databases"
 date: 2020-04-14
 publishDate: 2020-04-14T18:09:53.913527Z
-authors: ["Kenny C. Gross", "Mengying Li", "D. Gawlick", "Zhen Hua Liu"]
+authors: ["Kenny C. Gross", "Mengying Li", "Dieter Gawlick", "Zhen Hua Liu"]
 publication_types: ["8"]
 abstract: ""
 featured: false

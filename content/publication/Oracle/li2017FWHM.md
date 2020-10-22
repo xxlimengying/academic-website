@@ -2,7 +2,7 @@
 title: "Detecting Degradation in Rotating Machinery by Using the FWHM Metric to Analyze a Vibrational Spectral Density Distribution"
 date: 2019-05-23
 publishDate: 2019-05-23T18:09:53.913527Z
-authors: ["Kenny C. Gross", "Mengying Li", "A. M. Urmanov"]
+authors: ["Kenny C. Gross", "Mengying Li", "Aleksey M. Urmanov"]
 publication_types: ["8"]
 abstract: ""
 featured: false
