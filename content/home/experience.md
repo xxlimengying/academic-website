@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "Openings"
 subtitle = ""
 
 # Date format for experience
@@ -23,35 +23,42 @@ date_format = "Jan 2006"
   company = "Department of Mechanical Engineering"
   company_url = ""
   location = "PolyU"
-  date_start = "2020-10-01"
+  date_start = "2020-10-20"
   date_end = ""
-  description = "blabal"
+  description = """
+  Students who are motivated to pursue a Ph.D. degree with a background in thermodynamics, heat and mass transfer or related fields are welcome to contact Dr. Li. Preference will be given to those students who obtained or is expected to obtain a M.S. degree and has publications in English. 
+  """
 
 [[experience]]
-  title = "Graduate Student Researcher"
-  company = "University of California San Diego"
-  company_url = ""
-  location = "La Jolla, CA"
-  date_start = "2013-09-13"
-  date_end = "2018-08-31"
-  description = ""
-
-[[experience]]
-  title = "Researcher"
-  company = "Oracle Labs"
-  company_url = ""
-  location = "San Diego, CA"
-  date_start = "2017-01-02"
-  date_end = "2017-09-27"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
-  
- [[experience]]
   title = "Research Assistant"
-  company = "University of Pennsylvania"
+  company = "Department of Mechanical Engineering"
   company_url = ""
-  location = "Philadelphia, PA"
-  date_start = "2012-03-01"
-  date_end = "2013-08-24"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "PolyU"
+  date_start = "2020-10-19"
+  date_end = ""
+  description = """
+  Applicants who have a M.S. degree in Mechanical Engineering, Thermal Engineering or related field are welcome to Contact Dr. Li. Preference will be given to those who has publications in English and familiar with numerical modelings in Python or Matlab.
+  """
 
+[[experience]]
+  title = "Postdoc Researcher"
+  company = "Department of Mechanical Engineering"
+  company_url = ""
+  location = "PolyU"
+  date_start = "2020-10-18"
+  date_end = ""
+  description = """
+  Applicants who have a Ph.D. degree in Mechanical Engineering, Thermal Engineering or related field are welcome to Contact Dr. Li. Preference will be given to those who has excel publication records in the close field.
+  """
+  
+[[experience]]
+  title = "Visiting Scholars and More"
+  company = "Department of Mechanical Engineering"
+  company_url = ""
+  location = "PolyU"
+  date_start = "2020-10-17"
+  date_end = ""
+  description = """ 
+  Visiting scholars are welcome to contact Dr. Li to discuss interested projects. Highly motivated undergraduate and M.S. students are welcome to participate in our research and publish the research results.
+  """
 +++
