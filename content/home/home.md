@@ -31,7 +31,7 @@ height = "470px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
   overlay_img = "front_2.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Hybrid Renewable Power System"
@@ -41,7 +41,7 @@ height = "470px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
   overlay_img = "front_3.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Thermal Energy Storage"
@@ -51,7 +51,7 @@ height = "470px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
   overlay_img = "front_4.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 
 
