@@ -1,47 +1,47 @@
 ---
 # Display name
-name: Mengying Li
+name: Yinghao Chu
 
 # Username (this should match the folder name)
 authors:
-- mengyingli
+- yinghaochu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. 
 user_groups:
-- Principal Investigator
+- Collaborators
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: "Mechanical Engineering, HKPolyU"
+- name: "College of Electronics and Information Engineering, Shenzhen University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Energy Meteorology 
-- Solar Resourcing and Forecasting
-- Renewable Power Systems with Passive Cooling and Desalination
-- Thermal Storage
+- Machine Learning and Deep Learning 
+- Convolutional and Recurrent Neural Network
+- Image classification and segmenation
+- Feature Engineering
 
 education:
   courses:
   - course: PhD in Mechanical and Aerospace Engineering
     institution: University of California San Diego
-    year: 2018
-  - course: MS in Mechanical Engineering
+    year: 2015
+  - course: MS in Material Science
     institution: University of Pennsylvania
-    year: 2013
-  - course: BEng in Building Science
-    institution: Tsinghua University
     year: 2011
+  - course: BS in Applied Physics
+    institution: Hong Kong University of Science and Technology
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,16 +51,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mengying.li@polyu.edu.hk"
+  link: "mailto:charlie0586@gmail.com  "
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=JXioNvAAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/xxlimengying
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mengying-li-04789146/
+  link: https://scholar.google.com/citations?user=Zbo_l6kAAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +69,4 @@ email: ""
 
 
 ---
-I’m an Assistant Professor in the department of [Mechniacal Engineering](https://www.polyu.edu.hk/me/) at [The Hong Kong Polytechnic Univeristy](https://www.polyu.edu.hk/). Prior to join PolyU in 2020, I worked as a Postdoctoral Scholar from 2018 to 2020 in [Center for Energy Research](https://cer.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). My postdocoral work and Ph.D. dissertation research was advised by [Prof. Carlos F. M. Coimbra](http://coimbra.ucsd.edu/). I have worked on various research projects such as high-fidelity solar irradiance forecasting using physical and machine learning models; spectral modeling of longwave and shortwave radiative transfer in the atmosphere; and physics-based estimation of cloud optical properties from cutting-edge remote sensing data (e.g., GOES satellite imaging).  Currently, my research areas are expanded to large-scale thermal energy storage, hybridizing different renewable sources for power production, passive cooling and desalination. 
+I’m an Associate Research Scientist in the [College of Electronics and Information Engineering](http://ceie.szu.edu.cn/szucie/) at [Shenzhen University](https://www.szu.edu.cn/).  Prior to join Shenzhen University in 2020, I was a co-founder and AI scientist of [Aiator Inc.](http://www.aiator.com/), where I developed the core technologies focusing on AI - enhanced robots for various applications, developed and deployed deep learning based algorithm for 16 commercial projects, including financial projects such quantitative evaluations of investment strategy and risk control analysis for P2P individuals.  My current research involves the integration of various Machine Learning algorithms with renewable power forecasting for grid integration. Such algorithms include but not limited to Asymmetric Siamese Network, Generative Adversarial Networks, YOLO v4, Unet3+ and CNN+RNN(resnet+lstm). 
