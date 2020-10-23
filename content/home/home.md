@@ -30,29 +30,29 @@ height = "470px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
-  overlay_img = "front_2.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "front_2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   cta_label = "Solar forecasting by physical modeling integrated with machine learning"
 
-[item]]
+[[item]]
   title = "Hybrid Renewable Power System"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
-  overlay_img = "front_3.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "front_3.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   cta_label = "Hybridization of solar, wind and geothermal" 
 
-[item]]
+[[item]]
   title = "Thermal Energy Storage"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
-  overlay_img = "front_4.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "front_4.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
   cta_label = "Cost effective large-scale energy storage" 
 
