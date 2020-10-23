@@ -19,7 +19,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: "Mechanical Engineering, HKPolyU"
+- name: "Mechanical Engineering, The Hong Kong Polytechnic University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
