@@ -15,7 +15,7 @@ user_groups:
 superuser: true
 
 # Role/position
-role: Principal Investigator
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
