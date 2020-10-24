@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-20"
   date_end = ""
   description = """
-  Students who are motivated to pursue a Ph.D. degree with a background in thermodynamics, heat and mass transfer or related fields are welcome to contact Dr. Li. Preference will be given to those students who obtained or is expected to obtain an M.S. degree and has publications in English. 
+  Students who are motivated to pursue a Ph.D. degree with a background in thermodynamics, heat and mass transfer or related fields are welcome to contact Dr. Li. Preference will be given to those students who obtained or are expected to obtain an M.S. degree and have publications in English. 
   """
 
 [[experience]]
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-19"
   date_end = ""
   description = """
-  Applicants who have a M.S. degree in Mechanical Engineering, Thermal Engineering or related fields are welcome to Contact Dr. Li. Preference will be given to those who has publications in English and is familiar with numerical modeling in Python or Matlab.
+  Applicants who have a M.S. degree in Mechanical Engineering, Thermal Engineering or related fields are welcome to contact Dr. Li. Preference will be given to those who have publications in English and are familiar with numerical modeling in Python or Matlab.
   """
 
 [[experience]]
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-18"
   date_end = ""
   description = """
-  Applicants who have a Ph.D. degree in Mechanical Engineering, Thermal Engineering or related fields are welcome to Contact Dr. Li. Preference will be given to those who has excel publication records in the close field.
+  Applicants who have a Ph.D. degree in Mechanical Engineering, Thermal Engineering or related fields are welcome to contact Dr. Li. Preference will be given to those who have excellent publication records in the close fields.
   """
   
 [[experience]]
