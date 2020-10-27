@@ -59,8 +59,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mengying.li@polyu.edu.hk"
-phone = "+852-"
-address = "FG 61x, The Hong Kong Polytechnic University, Hung Hom, Hong Kong SAR"
+phone = "+852-2766 6659"
+address = "FG 626, The Hong Kong Polytechnic University, Hung Hom, Hong Kong SAR"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = ""
