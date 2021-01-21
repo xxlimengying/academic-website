@@ -41,7 +41,7 @@ education:
     year: 2020
   - course: BEng in Thermal Energy and Power Engineering
     institution: Shanghai Jiao Tong University
-    year: 2011
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,9 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:shanlin.chen@connect.polyu.hk"
-#- icon: google-scholar ## do not have this for now
- # icon_pack: ai
-  #link: https://scholar.google.com/citations?user=JXioNvAAAAAJ&hl=en
+- icon: google-scholar ## do not have this for now
+  icon_pack: ai
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/sl-chen
